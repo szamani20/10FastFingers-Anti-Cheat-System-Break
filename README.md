@@ -1,2 +1,9 @@
-# 10FastFingers-Anti-Cheat-System-Break A pyhton 3 script to break [10FastFingers](http://10fastfingers.com/typing-test/english) AntiCheat system!
-You need PIL, pytesseract and pyautogui to run the script :)
+#### 10FastFingers Anti Cheat System Break
+
+* Requirements:
+
+  * pytesseract
+  * PIL
+  * pyautogui
+
+*Don't forget to use your own coordinates based on your display resolution*
